@@ -12,3 +12,13 @@
   --clr-line-darkBlue: hsl(215, 32%, 27%);
   --fnt-family: "Outfit" "Sans Serif";
 }
+
+body {
+  max-width: 1440px;
+  height: 100vh;
+  background-color: var(--bclr-card-darkBlue);
+  font-family: var(--fnt-family);
+  font-size: 18px;
+  line-height: 1.5;
+  padding: 40px;
+}
