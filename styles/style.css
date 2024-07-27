@@ -1,0 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --clr-cyandBlue: hsl(178, 100%, 50%);
+  --clr-softBlue: hsl(215, 51%, 70%);
+  --bclr-darkBlue: hsl(217, 54%, 11%);
+  --bclr-card-darkBlue: hsl(216, 50%, 16%);
+  --clr-line-darkBlue: hsl(215, 32%, 27%);
+  --fnt-family: "Outfit" "Sans Serif";
+}
